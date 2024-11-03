@@ -1,0 +1,3 @@
+rootProject.name = 'spring-msa-starter'
+include 'config'
+
